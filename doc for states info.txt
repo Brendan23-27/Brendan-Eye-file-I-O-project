@@ -1,0 +1,4 @@
+The average budget is 46.2032 billion USD
+The state with the highest budget is California with a budget of 286.5 billion USD
+The state with the highest surplus is California with a surplus of 185.5 billion USD
+The state with the lowest population is Wyoming with a population of 584057 billion people
